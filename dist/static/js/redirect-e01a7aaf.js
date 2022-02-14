@@ -1,0 +1,1 @@
+import{d as a,k as e,l as r,q as s,c as t}from"./vendor-6ec9e59d.js";var l=a({setup(){const a=e(),l=r();return s((()=>{const{params:e,query:r}=a,{path:s}=e;l.replace({path:"/"+s,query:r})})),()=>t("div",null,null)}});export{l as default};
